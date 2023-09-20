@@ -9,7 +9,8 @@ public class Main {
         System.out.println(primero + " + " + segundo + " = "  + suma);
 
         // multiplicación de dos números
-
+        int multiplicacion = primero * segundo;
+        System.out.println("Resultado: " + multiplicacion);
 
 
     }
